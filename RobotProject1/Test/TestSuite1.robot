@@ -10,6 +10,12 @@ Test Teardown    Log    I am inside TEST TEARDOWN
 TestOne
     Log    Hello World!
     
+TestTwo
+    Log    Second Test
+    
+TestThree
+    Log    Third Test
+    
 FirstSeleniumTest
     Open Browser    https://google.com    chrome
     Set Browser Implicit Wait    5
